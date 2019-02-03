@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 const styleContainer = {
-    background: '#F1F1F1',
+    background: '#333',
     height: '60px',
     display: 'flex',
     alignItems: 'center',
@@ -11,7 +11,7 @@ const styleContainer = {
 const styleTitle = {
     fontSize: '20px',
     margin: '0',
-    color: '#A7B0C4'
+    color: '#F1F1F1'
 }
 
 class Header extends Component {
