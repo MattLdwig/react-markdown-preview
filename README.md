@@ -19,6 +19,10 @@ Start with `npm start` and open `localhost:3000` to view it in the browser.
 
 Simply type markdown in the left part to see the result in the right part. The compilation is done in real time.
 
+### Placeholder 
+
+Placeholders (text and image) comes from [Wikipedia](https://en.wikipedia.org/) .
+
 ### License
 
 This application is [licensed as MIT](License.md). 

@@ -93,9 +93,9 @@ function anotherExample(firstLine, lastLine) {
 
 A [link][example].
 
-  [example]: http://example.com
+  [example]: https://en.wikipedia.org/wiki/Markdown
 
-![Image](Icon-pictures.png "icon")
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SPCA_kITTEN.jpg/1920px-SPCA_kITTEN.jpg "icon")
 
 > Markdown uses email-style > characters for blockquoting.
 
